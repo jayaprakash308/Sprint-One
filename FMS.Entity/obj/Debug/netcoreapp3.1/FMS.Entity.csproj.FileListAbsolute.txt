@@ -1,0 +1,10 @@
+E:\VS\FacultyManagmentSystem\FMS.Entity\bin\Debug\netcoreapp3.1\FMS.Entity.deps.json
+E:\VS\FacultyManagmentSystem\FMS.Entity\bin\Debug\netcoreapp3.1\FMS.Entity.dll
+E:\VS\FacultyManagmentSystem\FMS.Entity\bin\Debug\netcoreapp3.1\FMS.Entity.pdb
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.csproj.AssemblyReference.cache
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.AssemblyInfoInputs.cache
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.AssemblyInfo.cs
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.csproj.CoreCompileInputs.cache
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.dll
+E:\VS\FacultyManagmentSystem\FMS.Entity\obj\Debug\netcoreapp3.1\FMS.Entity.pdb
