@@ -1,0 +1,10 @@
+E:\VS\FacultyManagmentSystem\FMS.Exception\bin\Debug\netcoreapp3.1\FMS.Exception.deps.json
+E:\VS\FacultyManagmentSystem\FMS.Exception\bin\Debug\netcoreapp3.1\FMS.Exception.dll
+E:\VS\FacultyManagmentSystem\FMS.Exception\bin\Debug\netcoreapp3.1\FMS.Exception.pdb
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.csproj.AssemblyReference.cache
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.AssemblyInfoInputs.cache
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.AssemblyInfo.cs
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.csproj.CoreCompileInputs.cache
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.dll
+E:\VS\FacultyManagmentSystem\FMS.Exception\obj\Debug\netcoreapp3.1\FMS.Exception.pdb
