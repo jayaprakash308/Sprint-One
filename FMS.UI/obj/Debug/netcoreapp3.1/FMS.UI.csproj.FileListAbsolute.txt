@@ -1,0 +1,5 @@
+E:\VS\FacultyManagementsSystem\FMS.UI\obj\Debug\netcoreapp3.1\FMS.UI.csproj.AssemblyReference.cache
+E:\VS\FacultyManagementsSystem\FMS.UI\obj\Debug\netcoreapp3.1\FMS.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\FacultyManagementsSystem\FMS.UI\obj\Debug\netcoreapp3.1\FMS.UI.AssemblyInfoInputs.cache
+E:\VS\FacultyManagementsSystem\FMS.UI\obj\Debug\netcoreapp3.1\FMS.UI.AssemblyInfo.cs
+E:\VS\FacultyManagementsSystem\FMS.UI\obj\Debug\netcoreapp3.1\FMS.UI.csproj.CoreCompileInputs.cache
